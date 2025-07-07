@@ -1,0 +1,17 @@
+# Core dependencies
+requests
+python-dotenv
+
+# API Server
+fastapi
+uvicorn
+
+# Web Search
+tavily-python
+
+# Data Models
+pydantic
+
+# Additional utilities
+numpy
+typing-extensions
